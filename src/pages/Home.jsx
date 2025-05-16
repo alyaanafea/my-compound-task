@@ -23,7 +23,7 @@ const Home = () => {
           <Slider {...settings}>
             <div className="relative ">
               <img
-                src="/src/assets/images/car1.jpeg"
+                src="/images/car1.jpeg"
                 alt="Slide 1"
                 className="w-full  h-[60vh] sm:h-screen object-cover  object-center opacity-75"
               />
@@ -39,7 +39,7 @@ const Home = () => {
 
             <div className="relative">
               <img
-                src="/src/assets/images/hyundai-motor-group-FvK8d346m_s-unsplash.jpg"
+                src="/images/hyundai-motor-group-FvK8d346m_s-unsplash.jpg"
                 alt="Slide 2"
                 className="w-full  h-[60vh] sm:h-screen object-cover  opacity-75"
               />
@@ -55,7 +55,7 @@ const Home = () => {
 
             <div className="relative">
               <img
-                src="/src/assets/images/car4.jpeg"
+                src="/images/car4.jpeg"
                 alt="Slide 3"
                 className="w-full h-[60vh] sm:h-screen object-cover opacity-75"
               />

@@ -6,7 +6,7 @@ const About = () => {
         <div>
           <img
             className="w-full opacity-80"
-            src="/src/assets/images/car2.webp"
+            src="/images/car2.webp"
             alt="car-image"
           />
         </div>
