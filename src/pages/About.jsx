@@ -1,8 +1,8 @@
 
 const About = () => {
   return (
-    <div className=" justify-center flex pt-10 items-center text-white m-auto min-h-screen bg-blue-900">
-      <div className="px-3 md:px-5 grid  md:grid-cols-2 gap-10 grid-cols-1 m-auto  justify-center items-center">
+    <div className=" flex justify-center items-start md:items-center text-white min-h-screen bg-blue-900 pt-14">
+      <div className=" md:px-5 grid  md:grid-cols-2 md:gap-10 gap-16 grid-cols-1  justify-center items-around md:items-center">
         <div>
           <img
             className="w-full opacity-80"
@@ -10,7 +10,7 @@ const About = () => {
             alt="car-image"
           />
         </div>
-        <div className="text-center md:text-start">
+        <div className="text-center md:text-start px-5 md:px-0">
           <h2 className="font-bold md:text-5xl text-4xl pb-10 ">
             Rent Your Favourite Car
           </h2>
